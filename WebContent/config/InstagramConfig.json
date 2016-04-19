@@ -1,0 +1,6 @@
+{
+  "CLIENT_ID": "59a7c2bb6992426db017e62ba204e8c7",
+  "CLIENT_SECRET": "188b7e4a15f84010a2f28cf2267aee72",
+  "WEBSITE_URL": "http://chitoo.sinaapp.com",
+  "REDIRECT_URI": "http://chitoo.sinaapp.com:8080/task8/instagram-callback.do"
+}
