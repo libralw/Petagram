@@ -1,11 +1,3 @@
-/**
- * 08-600 
- * hw#9
- * Jian Chen 
- * jianc1
- * Dec 06, 2014
- */
-
 package formbeans;
 
 import java.util.ArrayList;
